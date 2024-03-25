@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+.input-fields input, .input-fields button {
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.input-fields button {
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.user-info {
+    margin-top: 20px;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+.user-info p {
+    color: red;
+}
